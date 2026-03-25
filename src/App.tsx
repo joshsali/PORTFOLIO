@@ -54,7 +54,7 @@ export default function App() {
           >
             <div className="aspect-square rounded-3xl overflow-hidden bg-gray-200 shadow-2xl">
               <img 
-                src="https://picsum.photos/seed/joshua-salinas/800/800" 
+                src="https:/joshuasalinasCOOL.jpg" 
                 alt="Joshua Salinas" 
                 className="w-full h-full object-cover"
                 referrerPolicy="no-referrer"
@@ -65,7 +65,7 @@ export default function App() {
                 <div className="w-2 h-2 rounded-full bg-green-500 animate-pulse" />
                 <span className="text-xs font-bold uppercase tracking-wider text-gray-400">Available for projects</span>
               </div>
-              <p className="font-medium">Based in California</p>
+              <p className="font-medium">Based in the Philippines</p>
             </div>
           </motion.div>
         </section>
