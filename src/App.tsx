@@ -54,7 +54,7 @@ export default function App() {
           >
             <div className="aspect-square rounded-3xl overflow-hidden bg-gray-200 shadow-2xl">
               <img 
-                src="https:/joshuasalinasCOOL.jpg" 
+                src="/joshuasalinasCOOL.jpg" 
                 alt="Joshua Salinas" 
                 className="w-full h-full object-cover"
                 referrerPolicy="no-referrer"
