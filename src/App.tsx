@@ -133,10 +133,17 @@ export default function App() {
         {/* Contact Section */}
         <section id="contact" className="bg-black text-white rounded-[2.5rem] p-12 md:p-20 text-center overflow-hidden relative">
           <div className="relative z-10">
-            <h2 className="text-4xl md:text-5xl font-bold mb-6">Ready to collaborate?</h2>
+            <h2 className="text-4xl md:text-5xl font-bold mb-6">SUMMATIVE PART 3</h2>
             <p className="text-gray-400 text-lg mb-10 max-w-xl mx-auto">
-              Whether you're looking for your next vehicle or need a visual story told, I'm here to help.
-            </p>
+  <a 
+    href="https://task-alpha-eight-32.vercel.app/" 
+    target="_blank" 
+    rel="noopener noreferrer"
+    className="underline"
+  >
+    https://task-alpha-eight-32.vercel.app/
+  </a>
+</p>
             <div className="flex flex-wrap justify-center gap-6">
               <a href="mailto:shrmpsllart@gmail.com" className="bg-white text-black px-8 py-4 rounded-full font-bold hover:bg-gray-200 transition-all flex items-center gap-2">
                 Email Me <ExternalLink size={18} />
